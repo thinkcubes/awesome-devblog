@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>private-RSS</title>
+    </head>
+    <body>
+        <outline text="PRIVATE" title="PRIVATE">
+            <outline title="망치나가신다" type="rss" xmlUrl="http://blog.rss.naver.com/kerarara.xml" htmlUrl="http://blog.naver.com/kerarara"/>
+            <outline title="이코노믹뷰" type="rss" xmlUrl="http://feeds.feedburner.com/economic_view" htmlUrl="http://economicview.net"/>
+            <outline title="차이나랩" type="rss" xmlUrl="http://blog.rss.naver.com/china_lab.xml" htmlUrl="http://blog.naver.com/china_lab"/>
+            <outline title="마루날" type="rss" xmlUrl="http://ithelink.net/rss" htmlUrl="http://ithelink.net"/>
+            <outline title="초이의구텐탁" type="rss" xmlUrl="http://hallohello.tistory.com/rss" htmlUrl="http://hallohello.tistory.com"/>
+            <outline title="산타크로스" type="rss" xmlUrl="http://santa_croce.blog.me/rss" htmlUrl="http://santa_croce.blog.me"/>
+            <outline title="클리앙" type="rss" xmlUrl="http://feeds.feedburner.com/Clien_hot10_rss" htmlUrl="http://www.clien.net"/>
+        </outline>
+    </body>
+</opml>

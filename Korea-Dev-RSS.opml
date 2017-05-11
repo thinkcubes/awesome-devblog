@@ -44,7 +44,8 @@
       <outline title="김용묵" type="rss" xmlUrl="http://moogi.new21.org/tc/rss"/>
       <outline title="김용환" type="rss" xmlUrl="http://knight76.tistory.com/rss"/>
       <outline title="김용현" type="rss" xmlUrl="http://blog.rss.naver.com/drvoss.xml"/>
-      <outline title="김우섭" type="rss" xmlUrl="https://blog.wooseop.kim/categories/%ED%91%B8%EB%A1%9C%EA%B5%AC%EB%9D%BC%EB%B0%8D/index.xml"/>
+      <outline title="김우섭" type="rss"
+               xmlUrl="https://blog.wooseop.kim/categories/%ED%91%B8%EB%A1%9C%EA%B5%AC%EB%9D%BC%EB%B0%8D/index.xml"/>
       <outline title="김우승" type="rss" xmlUrl="https://kimws.wordpress.com/feed/"/>
       <outline title="김우용" type="atom" xmlUrl="https://brunch.co.kr/atom/@@13x1"/>
       <outline title="김정환" type="rss" xmlUrl="http://blog.jeonghwan.net/feed.xml"/>
@@ -229,12 +230,12 @@
       <outline title="황인서" type="rss" xmlUrl="https://medium.com/feed/chequer"/>
       <outline title="황장호" type="rss" xmlUrl="http://xrath.com/feed/"/>
       <outline title="황상철" type="rss" xmlUrl="http://pragmaticstory.com/?feed=rss2"/>
-      <outline title="황석주" type="rss" xmlUrl="http://rss.egloos.com/blog/dolppi"/>   
+      <outline title="황석주" type="rss" xmlUrl="http://rss.egloos.com/blog/dolppi"/>
       <outline title="히언" type="rss" xmlUrl="http://rss.egloos.com/blog/recipes"/>
       <outline title="현수명" type="atom" xmlUrl="http://soomong.net/atom.xml"/>
       <outline title="현승" type="rss" xmlUrl="http://iam-hs.com/rss"/>
-      <outline title="현준호" type="atom" xmlUrl="https://jhyun.wordpress.com/feed/"/>      
-      
+      <outline title="현준호" type="atom" xmlUrl="https://jhyun.wordpress.com/feed/"/>
+
       <outline title="게임개발포에버" type="rss" xmlUrl="http://feeds.feedburner.com/gamedevforever?format=xml"/>
       <outline title="네이버" type="rss" xmlUrl="http://d2.naver.com/d2.atom"/>
       <outline title="넥스트리" type="rss" xmlUrl="http://www.nextree.co.kr/feed/"/>

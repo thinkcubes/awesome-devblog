@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>public-RSS</title>
+    </head>
+    <body>
+        <outline text="PUBLIC" title="PUBLIC">
+            <outline title="틀림없이잘될거야" type="rss" xmlUrl="http://bmp.pe.kr/blog/index.php/feed/" htmlUrl = "http://bmp.pe.kr/blog"/>
+            <outline title="안드로메다래빗" type="rss" xmlUrl="http://andromedarabbit.net/feed/" htmlUrl="http://andromedarabbit.net"/>
+        </outline>
+    </body>
+</opml>
